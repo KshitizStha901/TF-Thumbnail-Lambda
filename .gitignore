@@ -1,0 +1,7 @@
+/Terraform/terraform.tfstate
+/Terraform/terraform.tfstate.backup
+/Terraform/.terraform.lock.hcl
+/Terraform/.terraform.tfstate.lock.info
+/Terraform/.terraform/
+/Lambda_Function/package/
+/Lambda_Function/Lambda_function.zip
