@@ -24,6 +24,7 @@ Install Pillow in a Lambda-compatible format:
 
 ```bash
 cd Lambda_Function
+cd package
 pip3 install \
   --platform manylinux2014_x86_64 \
   --target=package \
