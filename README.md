@@ -32,7 +32,7 @@ pip3 install \
   --only-binary=:all: pillow
 
 
-2. Create Lambda Deployment Package
+### 2. Create Lambda Deployment Package
 cd package
 zip -r9 ../lambda_function.zip .
 cd ..
