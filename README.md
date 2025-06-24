@@ -9,7 +9,6 @@ This project implements a serverless thumbnail generation system using AWS Lambd
 - Output thumbnails are stored in a separate destination bucket
 - Infrastructure as Code using Terraform
 - Python 3.12 with Pillow
-- No Docker packaging required (uses pip with platform targeting)
 
 ## Requirements
 
