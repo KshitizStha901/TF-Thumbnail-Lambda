@@ -9,4 +9,3 @@ resource "aws_s3_bucket" "source" {
 resource "aws_s3_bucket" "destination" {
   bucket = var.destination_bucket_name
 }
-
